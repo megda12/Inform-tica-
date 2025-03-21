@@ -7,6 +7,6 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/apresenta%C3%A7%
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Pasta.pdf
 ![image](https://github.com/user-attachments/assets/1b750ae0-f643-4886-8c5a-40065f2d19d7)
 ## ATIVIDADE 3 
-Segue o link: 
+Segue o link: https://github.com/megda12/Inform-tica-/blob/main/alunosestrangeirospronto.pdf
 ![image](https://github.com/user-attachments/assets/ad0c9142-8196-49b1-acf4-dcadd5d87de9)
 
