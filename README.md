@@ -12,7 +12,12 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/alunosestrangeir
 ## ATIVIDADE 4 
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202024%20(1).pbix
 ![image](https://github.com/user-attachments/assets/1e1a58bb-07a4-40b8-aea5-81d758b3da03)
-## ATIVIDADE 5
+## ATIVIDADE 5 - EXCEL DO POWER BI
+Segue o link: 
+![image](https://github.com/user-attachments/assets/bda375e4-899a-480e-9c61-5682bcd78857)
+
+
+## ATIVIDADE 6 - POWER BI
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/completo%20agua.pbix
 ![image](https://github.com/user-attachments/assets/f623db04-9a52-485a-ab1e-8ebc63f2346a)
 
