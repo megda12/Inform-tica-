@@ -6,10 +6,10 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/apresenta%C3%A7%
 ## ATIVIDADE 2: Planilhas de custos
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Pasta.pdf
 ![image](https://github.com/user-attachments/assets/1b750ae0-f643-4886-8c5a-40065f2d19d7)
-## ATIVIDADE 3 
+## ATIVIDADE 3: Planilha alunos
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/alunosestrangeirospronto.pdf
 ![image](https://github.com/user-attachments/assets/ad0c9142-8196-49b1-acf4-dcadd5d87de9)
-## ATIVIDADE 4 
+## ATIVIDADE 4: Power BI - Aprendizado
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202024%20(1).pbix
 ![image](https://github.com/user-attachments/assets/1e1a58bb-07a4-40b8-aea5-81d758b3da03)
 ## ATIVIDADE 5 - EXCEL DO POWER BI
