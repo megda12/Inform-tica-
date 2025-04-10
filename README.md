@@ -16,7 +16,7 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Quantidade%20de%
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/sustentabilidade%20completo_-_agua_2022.xlsx
 ![image](https://github.com/user-attachments/assets/48e6dfb8-8748-4759-be2e-34541e7d393b)
 
-## ATIVIDADE 6 - POWER BI
+## ATIVIDADE 5 - POWER BI
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/completo%20agua.pbix
 ![image](https://github.com/user-attachments/assets/f623db04-9a52-485a-ab1e-8ebc63f2346a)
 
