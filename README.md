@@ -37,8 +37,20 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/cerveja.ipynb
 ![image](https://github.com/user-attachments/assets/dc21d3d1-ecec-4d7b-bf12-ec92e038458c)
 
 ```
+Os dados (amostra) foram coletados em São Paulo — Brasil, em uma área universitária, onde acontecem algumas festas com turmas de alunos de 18 a 28 anos (média).
+O conjunto de dados utilizado  possui 7 variáveis, sendo uma variável dependente, com período de um ano.
+Responda:
+Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+Não, o modelo apresentado no Excel contém os valores em tabela, diferentemente do Google Colab que gerou gráficos a partir dos valores encontrados.
 
+Qual modelo você usaria? Por quê?
+Compare os resultados obtidos com aqueles apresentados em:
+https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3.
+ Há diferenças entre os modelos? Explique.
 ```
+
+## Vendas de casa 
+
 
 
 
