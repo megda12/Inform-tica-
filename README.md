@@ -20,8 +20,8 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/completo%20agua.
 ![image](https://github.com/user-attachments/assets/f623db04-9a52-485a-ab1e-8ebc63f2346a)
 
 ## ATIVIDADE 6 - Excel e google colab
-## Vendas de sorvetes:
-Segue o link: 
+## Vendas de sorvetes
+Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Ice%20Cream.xlsx
 ![image](https://github.com/user-attachments/assets/fd3b820c-2ff0-42b5-92b8-c1b34ffc6669)
 
 
