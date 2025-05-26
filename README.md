@@ -30,7 +30,10 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/GPI_sorvete.ipyn
 Dos modelos apresentados, tiveram resultados semelhantes, mas prefiro o excel por ser mais prático.
 ```
 
-##
+## Consumo cerveja
+Segue o link:
+![image](https://github.com/user-attachments/assets/e7641719-a0df-4261-bd87-79ff4079556a)
+
 
 
 
