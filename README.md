@@ -33,7 +33,7 @@ Dos modelos apresentados, tiveram resultados semelhantes, mas prefiro o excel po
 ## Consumo cerveja
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Consumo_cerveja.xlsx
 ![image](https://github.com/user-attachments/assets/e7641719-a0df-4261-bd87-79ff4079556a)
-Segue o link:
+Segue o link: https://github.com/megda12/Inform-tica-/blob/main/cerveja.ipynb
 ![image](https://github.com/user-attachments/assets/dc21d3d1-ecec-4d7b-bf12-ec92e038458c)
 
 
