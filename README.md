@@ -27,7 +27,7 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/GPI_sorvete.ipyn
 ![image](https://github.com/user-attachments/assets/c61ca185-879a-4161-8452-a4e930a5e3e2)
 
 ```
-Dos modelos apresentados, tiveram resultados semelhantes, mas prefiro o excel por ser mais prático.
+Dos modelos apresentados, tiveram resultados semelhantes, sendo 21.45° e 44.30°, com 0,1 de diferença entre eles, mas prefiro o excel por ser mais prático.
 ```
 
 ## Consumo cerveja
