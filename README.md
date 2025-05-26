@@ -36,6 +36,10 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Consumo_cerveja.
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/cerveja.ipynb
 ![image](https://github.com/user-attachments/assets/dc21d3d1-ecec-4d7b-bf12-ec92e038458c)
 
+```
+
+```
+
 
 
 
