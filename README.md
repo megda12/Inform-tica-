@@ -27,6 +27,7 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/GPI_sorvete.ipyn
 ![image](https://github.com/user-attachments/assets/c61ca185-879a-4161-8452-a4e930a5e3e2)
 
 ```
+Apresenta a quantidade de sorvetes vendidos em função da temperatura do dia, em °C.  A fim de evitar desperdícios tanto de trabalho, tempo de preparo e ingredientes, deseja-se um modelo preditivo que seja capaz de fornecer a quantidade de sorvetes a serem vendidos em função da temperatura. Utilizando  técnica de Regressão Linear e as ferramentas:
 Dos modelos apresentados, tiveram resultados semelhantes, sendo 21.45° e 44.30°, com 0,1 de diferença entre eles, mas prefiro o excel por ser mais prático.
 ```
 
@@ -42,14 +43,18 @@ O conjunto de dados utilizado  possui 7 variáveis, sendo uma variável dependen
 Responda:
 Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
 Não, o modelo apresentado no Excel contém os valores em tabela, diferentemente do Google Colab que gerou gráficos a partir dos valores encontrados.
-
 Qual modelo você usaria? Por quê?
+Usaria o modelo o Google Colab, pois álem de gráficos, fica melhor o entendimento, com os números.
 Compare os resultados obtidos com aqueles apresentados em:
 https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3.
  Há diferenças entre os modelos? Explique.
+Não, os resultados são iguais, mas com uma forma diferente de analisar.
 ```
 
-## Vendas de casa 
+## Vendas de casas
+Segue o link: 
+![image](https://github.com/user-attachments/assets/19b56bbf-34f7-4921-be8f-77f4a4aee9c3)
+
 
 
 
