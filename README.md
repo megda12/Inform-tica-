@@ -52,10 +52,25 @@ Não, os resultados são iguais, mas com uma forma diferente de analisar.
 ```
 
 ## Vendas de casas
-Segue o link: 
+Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Housepre%C3%A7os_Casas.xlsx
 ![image](https://github.com/user-attachments/assets/19b56bbf-34f7-4921-be8f-77f4a4aee9c3)
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/colab.ipynb
+![image](https://github.com/user-attachments/assets/834806f1-de72-427a-ba0b-2910f16dcf17)
+```
+Este projeto tem como objetivo construir um modelo de regressão linear simples e multivariada para prever o preço de imóveis com base em suas características estruturais. Utilizamos um conjunto de dados contendo diversas informações sobre os imóveis.
 
+🔍 Variáveis Utilizadas
+Variável dependente (Y):
+preços – valor de venda do imóvel.
+Variáveis independentes (X):
+área – metragem total do imóvel (em m²).
+garagem – número de vagas de garagem.
+banheiros – quantidade de banheiros.
+lareira – número de lareiras.
+mármore – se o imóvel possui acabamento em mármore branco (1 para sim, 0 para não).
+andares – se o imóvel possui mais de um andar (1 para sim, 0 para não).
+O modelo de regressão linear permite estimar os preços de imóveis com base em suas características. É uma abordagem simples, porém eficaz, especialmente quando as variáveis são numericamente significativas. Ele pode ser usado como base para sistemas de precificação, análise de mercado e suporte à decisão imobiliária.
+```
 
 
 
