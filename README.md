@@ -52,8 +52,10 @@ Não, os resultados são iguais, mas com uma forma diferente de analisar.
 ```
 
 ## Vendas de casas
-Segue o link: https://github.com/megda12/Inform-tica-/blob/main/colab.ipynb
+Segue o link: 
 ![image](https://github.com/user-attachments/assets/19b56bbf-34f7-4921-be8f-77f4a4aee9c3)
+Segue o link: https://github.com/megda12/Inform-tica-/blob/main/colab.ipynb
+
 
 
 
