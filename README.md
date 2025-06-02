@@ -75,6 +75,11 @@ O modelo de regressão linear permite estimar os preços de imóveis com base em
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Graf_K_panela_sorvete_produtos.xlsx
 ![image](https://github.com/user-attachments/assets/5a930ee9-f66f-4b29-8869-250e70648a35)
 
+## Sandálias e Computador
+Segue o link: 
+![image](https://github.com/user-attachments/assets/2f443dc8-ee7e-4779-b7a6-9e9e487f5ac8)
+
+
 
 
 
