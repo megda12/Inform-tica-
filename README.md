@@ -72,7 +72,7 @@ andares – se o imóvel possui mais de um andar (1 para sim, 0 para não).
 O modelo de regressão linear permite estimar os preços de imóveis com base em suas características. É uma abordagem simples, porém eficaz, especialmente quando as variáveis são numericamente significativas. Ele pode ser usado como base para sistemas de precificação, análise de mercado e suporte à decisão imobiliária.
 ```
 ## ATIVIDADE 7 - Excel Panela Sorvete
-Segue o link: 
+Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Graf_K_panela_sorvete_produtos.xlsx
 ![image](https://github.com/user-attachments/assets/5a930ee9-f66f-4b29-8869-250e70648a35)
 
 
