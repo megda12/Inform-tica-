@@ -79,6 +79,13 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Graf_K_panela_so
 Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Graf_K_sandalias_computador.xlsx
 ![image](https://github.com/user-attachments/assets/2f443dc8-ee7e-4779-b7a6-9e9e487f5ac8)
 
+## ATIVIDADE 8
+## POWER APPS E POWER AUTOMATE
+Elaborar um aplicativo, usando o Power Apps, por meio do qual seja possível cadastrar CLIENTE, FORNECEDOR  e ORDEM DE PRODUÇÃO, conforme site indicado acima. 
+Personalize seu aplicativo quanto à cor, tipo de fonte e outros.
+Gravar o funcionamento do aplicativo via Ferramenta de Captura da tela e postar em seu Github.
+
+
 
 
 
