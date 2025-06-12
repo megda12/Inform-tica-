@@ -84,6 +84,8 @@ Segue o link: https://github.com/megda12/Inform-tica-/blob/main/Graf_K_sandalias
 Elaborar um aplicativo, usando o Power Apps, por meio do qual seja possível cadastrar CLIENTE, FORNECEDOR  e ORDEM DE PRODUÇÃO, conforme site indicado acima. 
 Personalize seu aplicativo quanto à cor, tipo de fonte e outros.
 Gravar o funcionamento do aplicativo via Ferramenta de Captura da tela e postar em seu Github.
+Segue o link das gravações: ![image](https://github.com/user-attachments/assets/39079bb9-0b49-4e2b-904b-02426874e7d1)
+https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20192822.mp4
 
 
 
