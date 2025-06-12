@@ -87,6 +87,7 @@ Gravar o funcionamento do aplicativo via Ferramenta de Captura da tela e postar 
 Segue o link das gravações: ![image](https://github.com/user-attachments/assets/39079bb9-0b49-4e2b-904b-02426874e7d1)
 https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20192822.mp4
 https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20193104.mp4
+https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20193331.mp4
 
 
 
