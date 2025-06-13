@@ -92,7 +92,7 @@ https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20193331
 ## FLUXO MONITORADO
  Elaborar um fluxo que lhe permita monitorar indicadores como custo por quilômetro rodado, prazo médio de entrega e índice de avarias.
  Gravar o funcionamento do seu fluxo via Ferramenta de Captura da tela e postar em seu Github.
- Segue o link das grvações: ![image](https://github.com/user-attachments/assets/56b27c1b-cb77-45c5-b932-4e39e834f1fb)
+ Segue o link das gravações: ![image](https://github.com/user-attachments/assets/56b27c1b-cb77-45c5-b932-4e39e834f1fb)
  https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20204124.mp4
  https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20204336.mp4
  https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20204550.mp4
