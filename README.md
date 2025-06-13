@@ -95,8 +95,7 @@ https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20193331
  Segue o link das grvações: ![image](https://github.com/user-attachments/assets/56b27c1b-cb77-45c5-b932-4e39e834f1fb)
  https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20204124.mp4
  https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20204336.mp4
-
-
+ https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20204550.mp4
 
 
 
