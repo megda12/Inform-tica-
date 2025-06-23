@@ -105,6 +105,7 @@ Gravações de tela: https://github.com/megda12/Inform-tica-/blob/main/Gravando%
 ## APLICATIVO
 ![image](https://github.com/user-attachments/assets/58498ecd-542a-4754-90d6-7ccd8ebf4547)
  Gravações de tela: https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-23%20205053.mp4
+ https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-23%20204923.mp4
 
 
 
