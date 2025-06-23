@@ -97,6 +97,10 @@ https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20193331
  https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20204336.mp4
  https://github.com/megda12/Inform-tica-/blob/main/Gravando%202025-06-12%20204550.mp4
 
+## PROVA
+## EXCEL E POWER BI 
+![image](https://github.com/user-attachments/assets/7c732ce1-f6f6-4804-ada0-38646c50956a)
+Gravações de tela: 
 
 
 
